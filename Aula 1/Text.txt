@@ -1,0 +1,41 @@
+
+A Fonética é uma área ou nível do português que estuda a emissão e
+construção dos sons da fala. O fonema é a parte mínima de som de uma
+palavra, ou seja, é uma ou mais letras que emitem som.
+
+Para entender o que é fonema, é necessário antes introduzir o conceito
+de Dígrafos. Um Dígrafo é duas ou mais letras que emitem o som de uma
+única só.
+
+Existem os Dígrafos Consonantais e Vocálicos. Os Dígrafos Consonantais são
+aqueles que encontros consonantais representam o som de uma única consoante,
+como pode-se ver nos exemplos:
+
+	-> ss : s;
+	-> rr : r;
+	-> ch : x;
+	-> xc : c;
+	-> sc : c;
+	-> sç : c;
+	-> nh : n;
+	-> qu : k;
+	-> gu : g;
+
+Os Dígrafos Vocálicos são oriundos de encontros vocálicos que emitem o som
+de uma única vogal. São exemplos:
+
+	-> an : a;
+	-> en : e;
+	-> in : i;
+	-> on : o;
+	-> un : u;
+	-> am : a;
+	-> em : e;
+	-> im : i;
+	-> om : o;
+	-> um : u.
+
+Logo, um fonema é a unidade mínima de som que forma uma palavra. Um fonema
+é uma ou mais letras que emitem som. Pode-se ter palavras que possuem a
+quantidade de letras maior que a quantidade de fonemas, ou a quantidade
+de fonemas maior que a quantidade de letras, ou ainda quantidades iguais.
