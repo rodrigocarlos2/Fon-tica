@@ -21,7 +21,7 @@ como pode-se ver nos exemplos:
 	-> qu : k;
 	-> gu : g;
 
-Os Dígrafos Vocálicos são oriundos de encontros vocálicos que emitem o som
+Os Dígrafos Vocálicos são oriundos de encontros de letras que emitem o som
 de uma única vogal. São exemplos:
 
 	-> an : a;
