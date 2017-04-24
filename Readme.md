@@ -5,19 +5,19 @@ A Fonética é a parte do Português responsável por estudar a emissão de sons
 
 ## Aula 1
 
-![aula][https://github.com/rodrigocarlos2/Fon-tica/tree/master/Aula%201]
+![aula](https://github.com/rodrigocarlos2/Fon-tica/tree/master/Aula%201)
 
 ## Aula 2
 
-![aula][https://github.com/rodrigocarlos2/Fon-tica/tree/master/Aula%202]
+![aula](https://github.com/rodrigocarlos2/Fon-tica/tree/master/Aula%202)
 
 ## Aula 3
 
-![aula][https://github.com/rodrigocarlos2/Fon-tica/tree/master/Aula%203]
+![aula](https://github.com/rodrigocarlos2/Fon-tica/tree/master/Aula%203)
 
 ## Aula 4
 
-![aula][https://github.com/rodrigocarlos2/Fon-tica/tree/master/Aula%204]
+![aula](https://github.com/rodrigocarlos2/Fon-tica/tree/master/Aula%204)
 
 # Autor
 
