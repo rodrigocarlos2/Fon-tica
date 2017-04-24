@@ -14,4 +14,3 @@ então, de Encontro Consonantal Imperfeito. No caso de uma palavra ter
 ocorrência de divisão perfeita e imperfeita, denomina-se como Encontro
 Consonantal Misto. Uma curiosidade é que o Encontro Consonantal Misto
 sempre possui no mínimo um encontro de três consoantes.
-
